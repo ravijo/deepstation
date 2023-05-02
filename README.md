@@ -2,7 +2,7 @@
 This repository contains a bill of materials for a custom-built deep learning PC.
 
 
-| No.   | Category    | Name                                                 | Part No. / SKU       | URL                                                                            | Price (YEN) |
+| No.   | Category    | Name                                                 | Part No. / SKU       | URL                                                                            | Price (¥) |
 |:------|:------------|:-----------------------------------------------------|:---------------------|:-------------------------------------------------------------------------------|:------------|
 | 1     | CPU         | Intel Core i9-13900K                                 | BX8071513900K        | [pc-koubou.jp](https://www.pc-koubou.jp/products/detail.php?product_id=925808) | ¥81,580     |
 | 2     | GPU         | MSI GeForce RTX 3090 VENTUS 3X 24G                   |                      | [amazon.co.jp](https://www.amazon.co.jp/dp/B08HR9D2JS)                         | ¥188,790    |
